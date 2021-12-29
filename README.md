@@ -1,7 +1,7 @@
 ### Hi there, everyone! 👋
 
 - 🚀 I’m currently studying Computer Science in Madrid!
-- 🌱 I’m really interested in learning about front-end, UI/UX and videogames!
+- 🌱 I’m really interested in learning about IT, UX and front-end!
 - 📫 I'm looking for an internship, feel free to contact me at dgpmakes@gmail.com!
 
 <!--
