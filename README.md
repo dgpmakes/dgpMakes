@@ -1,8 +1,8 @@
 ### Hi there, everyone! 👋
 
-- 🚀 I’m currently studying Computer Science in Madrid!
-- 🌱 I’m really interested in learning about IT, UX and front-end!
-- 📫 I'm looking for a graduate position, feel free to contact me at dgpmakes@gmail.com!
+- 🚀 I’m currently working in Red Hat in Madrid!
+- 🌱 I’m really interested in learning about UX, open-source solutions and the cloud!
+- 📫 Feel free to contact me at dgpmakes@gmail.com!
 
 <!--
 **dgpMakes/dgpMakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
